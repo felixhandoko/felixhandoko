@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💬 Feel free to ask me about anything
+💬 Feel free to ask me about anything /n
 📫 You can reach me via felix.handoko@tum.de
 <!--
 **felixhandoko/felixhandoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
